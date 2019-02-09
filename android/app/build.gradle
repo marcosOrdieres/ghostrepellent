@@ -118,12 +118,10 @@ buildToolsVersion "21.0.1"
     }
     signingConfigs {
         release {
-            if (project.hasProperty('marcosOrdi.keystore')) {
-                storeFile file('marcosOrdi.keystore')
-                storePassword 'marcos'
-                keyAlias 'marcosOrdi'
-                keyPassword 'marcos'
-            }
+          storeFile file("marcosOrdi.keystore")
+          storePassword "marcos"
+          keyAlias "marcosOrdi"
+          keyPassword "marcos"
         }
     }
     buildTypes {

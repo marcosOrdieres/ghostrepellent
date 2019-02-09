@@ -46,7 +46,7 @@ export default class SplashComponent extends Component {
               adSize='fullBanner'
               adUnitID='ca-app-pub-7498255284251761~6149695323'
               testDevices={[AdMobBanner.simulatorId]}
-              onAdFailedToLoad={error => console.error(error)} />
+              onAdFailedToLoad={error => console.warn(error)} />
           </View>
             :
             null
