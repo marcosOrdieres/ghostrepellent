@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "98251923645",
+    "firebase_url": "https://ghostrepellent-16cc8.firebaseio.com",
+    "project_id": "ghostrepellent-16cc8",
+    "storage_bucket": "ghostrepellent-16cc8.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:98251923645:android:a29278bddc8c64b1",
+        "android_client_info": {
+          "package_name": "com.mamarene.ghostrepellent"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "98251923645-cnstqjijfqbsnm4603bdu38pk6ud6bjv.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBYK0Vt8FnLFLlSMhVCxDqjVvfTKghedII"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
