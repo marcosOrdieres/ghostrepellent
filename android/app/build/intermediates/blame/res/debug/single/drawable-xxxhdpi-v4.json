@@ -24,6 +24,10 @@
         "source": "/Users/marcos/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.1.1.aar/98d7f21bdfb2de1bb1bc8e1d0a229886/res/drawable-xxxhdpi-v4/abc_ic_menu_share_mtrl_alpha.png"
     },
     {
+        "merged": "/Users/marcos/ghostrepellant/android/app/build/intermediates/res/merged/debug/drawable-xxxhdpi-v4/next.png",
+        "source": "/Users/marcos/ghostrepellant/node_modules/react-native-track-player/android/build/intermediates/bundles/debug/res/drawable-xxxhdpi-v4/next.png"
+    },
+    {
         "merged": "/Users/marcos/ghostrepellant/android/app/build/intermediates/res/merged/debug/drawable-xxxhdpi-v4/abc_ic_star_half_black_48dp.png",
         "source": "/Users/marcos/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.1.1.aar/98d7f21bdfb2de1bb1bc8e1d0a229886/res/drawable-xxxhdpi-v4/abc_ic_star_half_black_48dp.png"
     },
@@ -56,6 +60,10 @@
         "source": "/Users/marcos/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.1.1.aar/98d7f21bdfb2de1bb1bc8e1d0a229886/res/drawable-xxxhdpi-v4/abc_ic_star_black_48dp.png"
     },
     {
+        "merged": "/Users/marcos/ghostrepellant/android/app/build/intermediates/res/merged/debug/drawable-xxxhdpi-v4/rewind.png",
+        "source": "/Users/marcos/ghostrepellant/node_modules/react-native-track-player/android/build/intermediates/bundles/debug/res/drawable-xxxhdpi-v4/rewind.png"
+    },
+    {
         "merged": "/Users/marcos/ghostrepellant/android/app/build/intermediates/res/merged/debug/drawable-xxxhdpi-v4/abc_btn_switch_to_on_mtrl_00012.9.png",
         "source": "/Users/marcos/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.1.1.aar/98d7f21bdfb2de1bb1bc8e1d0a229886/res/drawable-xxxhdpi-v4/abc_btn_switch_to_on_mtrl_00012.9.png"
     },
@@ -64,8 +72,20 @@
         "source": "/Users/marcos/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.1.1.aar/98d7f21bdfb2de1bb1bc8e1d0a229886/res/drawable-xxxhdpi-v4/abc_ic_menu_cut_mtrl_alpha.png"
     },
     {
+        "merged": "/Users/marcos/ghostrepellant/android/app/build/intermediates/res/merged/debug/drawable-xxxhdpi-v4/previous.png",
+        "source": "/Users/marcos/ghostrepellant/node_modules/react-native-track-player/android/build/intermediates/bundles/debug/res/drawable-xxxhdpi-v4/previous.png"
+    },
+    {
         "merged": "/Users/marcos/ghostrepellant/android/app/build/intermediates/res/merged/debug/drawable-xxxhdpi-v4/abc_btn_radio_to_on_mtrl_000.png",
         "source": "/Users/marcos/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.1.1.aar/98d7f21bdfb2de1bb1bc8e1d0a229886/res/drawable-xxxhdpi-v4/abc_btn_radio_to_on_mtrl_000.png"
+    },
+    {
+        "merged": "/Users/marcos/ghostrepellant/android/app/build/intermediates/res/merged/debug/drawable-xxxhdpi-v4/play.png",
+        "source": "/Users/marcos/ghostrepellant/node_modules/react-native-track-player/android/build/intermediates/bundles/debug/res/drawable-xxxhdpi-v4/play.png"
+    },
+    {
+        "merged": "/Users/marcos/ghostrepellant/android/app/build/intermediates/res/merged/debug/drawable-xxxhdpi-v4/stop.png",
+        "source": "/Users/marcos/ghostrepellant/node_modules/react-native-track-player/android/build/intermediates/bundles/debug/res/drawable-xxxhdpi-v4/stop.png"
     },
     {
         "merged": "/Users/marcos/ghostrepellant/android/app/build/intermediates/res/merged/debug/drawable-xxxhdpi-v4/abc_btn_check_to_on_mtrl_015.png",
@@ -78,6 +98,14 @@
     {
         "merged": "/Users/marcos/ghostrepellant/android/app/build/intermediates/res/merged/debug/drawable-xxxhdpi-v4/abc_ic_menu_paste_mtrl_am_alpha.png",
         "source": "/Users/marcos/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.1.1.aar/98d7f21bdfb2de1bb1bc8e1d0a229886/res/drawable-xxxhdpi-v4/abc_ic_menu_paste_mtrl_am_alpha.png"
+    },
+    {
+        "merged": "/Users/marcos/ghostrepellant/android/app/build/intermediates/res/merged/debug/drawable-xxxhdpi-v4/pause.png",
+        "source": "/Users/marcos/ghostrepellant/node_modules/react-native-track-player/android/build/intermediates/bundles/debug/res/drawable-xxxhdpi-v4/pause.png"
+    },
+    {
+        "merged": "/Users/marcos/ghostrepellant/android/app/build/intermediates/res/merged/debug/drawable-xxxhdpi-v4/forward.png",
+        "source": "/Users/marcos/ghostrepellant/node_modules/react-native-track-player/android/build/intermediates/bundles/debug/res/drawable-xxxhdpi-v4/forward.png"
     },
     {
         "merged": "/Users/marcos/ghostrepellant/android/app/build/intermediates/res/merged/debug/drawable-xxxhdpi-v4/abc_ic_star_black_36dp.png",

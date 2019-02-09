@@ -11,6 +11,7 @@ import com.facebook.soloader.SoLoader;
 import com.sbugert.rnadmob.RNAdMobPackage;
 import io.invertase.firebase.RNFirebasePackage;
 import com.horcrux.svg.SvgPackage;
+import com.zmxv.RNSound.RNSoundPackage;
 
 import java.util.Arrays;
 import java.util.List;
@@ -30,7 +31,8 @@ public class MainApplication extends Application implements ReactApplication {
           new RNI18nPackage(),
           new RNFirebasePackage(),
           new RNAdMobPackage(),
-          new SvgPackage()
+          new SvgPackage(),
+          new RNSoundPackage()
       );
     }
 

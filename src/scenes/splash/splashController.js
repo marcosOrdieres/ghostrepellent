@@ -20,9 +20,7 @@ class SplashController extends BaseScene {
   }
 
   goGhostScreen () {
-    console.warn('weee');
     setTimeout(() => {
-      console.warn('1 secs');
       this.navigateTo('Ghost');
     }, 2000);
   }
@@ -42,8 +40,7 @@ class SplashController extends BaseScene {
 
   chargeAd () {
     // Display an interstitial
-    // AdMobInterstitial.setAdUnitID('ca-app-pub-7498255284251761~6149695323'); // mamarene Id
-    AdMobInterstitial.setAdUnitID('ca-app-pub-3940256099942544/1033173712'); // test
+    AdMobInterstitial.setAdUnitID('ca-app-pub-7498255284251761~6149695323');
     AdMobInterstitial.setTestDevices(['6D1D35847F87DD467EE0D0AD2FE07E63']); // my phone Device
     AdMobInterstitial.requestAd();
   }

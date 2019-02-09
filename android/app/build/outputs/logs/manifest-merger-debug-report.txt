@@ -8,6 +8,7 @@ MERGED from [:react-native-svg] /Users/marcos/ghostrepellant/node_modules/react-
 MERGED from [:react-native-i18n] /Users/marcos/ghostrepellant/node_modules/react-native-i18n/android/build/intermediates/manifests/full/debug/AndroidManifest.xml:2:1-9:12
 MERGED from [:react-native-firebase] /Users/marcos/ghostrepellant/node_modules/react-native-firebase/android/build/intermediates/manifests/full/debug/AndroidManifest.xml:2:1-15:12
 MERGED from [:react-native-admob] /Users/marcos/ghostrepellant/node_modules/react-native-admob/android/build/intermediates/manifests/full/debug/AndroidManifest.xml:2:1-9:12
+MERGED from [:RNSound] /Users/marcos/ghostrepellant/node_modules/react-native-sound/android/build/intermediates/manifests/full/debug/AndroidManifest.xml:2:1-13:12
 MERGED from [com.facebook.react:react-native:0.53.3] /Users/marcos/.gradle/caches/transforms-1/files-1.1/react-native-0.53.3.aar/51377b460e6d187ef4cbc2f45b675d95/AndroidManifest.xml:2:1-15:12
 MERGED from [com.android.support:appcompat-v7:27.1.1] /Users/marcos/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.1.1.aar/98d7f21bdfb2de1bb1bc8e1d0a229886/AndroidManifest.xml:17:1-22:12
 MERGED from [com.google.firebase:firebase-core:16.0.4] /Users/marcos/.gradle/caches/transforms-1/files-1.1/firebase-core-16.0.4.aar/b8741da57aab9b5a178ea2326ca873fb/AndroidManifest.xml:2:1-9:12
@@ -103,6 +104,8 @@ MERGED from [:react-native-firebase] /Users/marcos/ghostrepellant/node_modules/r
 MERGED from [:react-native-firebase] /Users/marcos/ghostrepellant/node_modules/react-native-firebase/android/build/intermediates/manifests/full/debug/AndroidManifest.xml:7:5-9:41
 MERGED from [:react-native-admob] /Users/marcos/ghostrepellant/node_modules/react-native-admob/android/build/intermediates/manifests/full/debug/AndroidManifest.xml:5:5-7:41
 MERGED from [:react-native-admob] /Users/marcos/ghostrepellant/node_modules/react-native-admob/android/build/intermediates/manifests/full/debug/AndroidManifest.xml:5:5-7:41
+MERGED from [:RNSound] /Users/marcos/ghostrepellant/node_modules/react-native-sound/android/build/intermediates/manifests/full/debug/AndroidManifest.xml:9:5-11:41
+MERGED from [:RNSound] /Users/marcos/ghostrepellant/node_modules/react-native-sound/android/build/intermediates/manifests/full/debug/AndroidManifest.xml:9:5-11:41
 MERGED from [com.facebook.react:react-native:0.53.3] /Users/marcos/.gradle/caches/transforms-1/files-1.1/react-native-0.53.3.aar/51377b460e6d187ef4cbc2f45b675d95/AndroidManifest.xml:7:5-9:41
 MERGED from [com.facebook.react:react-native:0.53.3] /Users/marcos/.gradle/caches/transforms-1/files-1.1/react-native-0.53.3.aar/51377b460e6d187ef4cbc2f45b675d95/AndroidManifest.xml:7:5-9:41
 MERGED from [com.android.support:appcompat-v7:27.1.1] /Users/marcos/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.1.1.aar/98d7f21bdfb2de1bb1bc8e1d0a229886/AndroidManifest.xml:20:5-44

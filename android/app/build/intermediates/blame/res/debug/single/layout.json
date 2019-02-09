@@ -80,12 +80,12 @@
         "source": "/Users/marcos/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.1.1.aar/98d7f21bdfb2de1bb1bc8e1d0a229886/res/layout/abc_screen_simple.xml"
     },
     {
-        "merged": "/Users/marcos/ghostrepellant/android/app/build/intermediates/res/merged/debug/layout/abc_search_dropdown_item_icons_2line.xml",
-        "source": "/Users/marcos/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.1.1.aar/98d7f21bdfb2de1bb1bc8e1d0a229886/res/layout/abc_search_dropdown_item_icons_2line.xml"
-    },
-    {
         "merged": "/Users/marcos/ghostrepellant/android/app/build/intermediates/res/merged/debug/layout/abc_select_dialog_material.xml",
         "source": "/Users/marcos/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.1.1.aar/98d7f21bdfb2de1bb1bc8e1d0a229886/res/layout/abc_select_dialog_material.xml"
+    },
+    {
+        "merged": "/Users/marcos/ghostrepellant/android/app/build/intermediates/res/merged/debug/layout/abc_search_dropdown_item_icons_2line.xml",
+        "source": "/Users/marcos/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.1.1.aar/98d7f21bdfb2de1bb1bc8e1d0a229886/res/layout/abc_search_dropdown_item_icons_2line.xml"
     },
     {
         "merged": "/Users/marcos/ghostrepellant/android/app/build/intermediates/res/merged/debug/layout/abc_alert_dialog_title_material.xml",

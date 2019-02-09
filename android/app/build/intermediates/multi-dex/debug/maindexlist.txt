@@ -431,6 +431,7 @@ com/google/ads/mediation/MediationServerParameters.class
 android/support/coreui/R$styleable.class
 android/support/annotation/ColorLong.class
 com/facebook/react/common/annotations/VisibleForTesting.class
+com/zmxv/RNSound/RNSoundPackage.class
 android/support/annotation/RequiresApi.class
 javax/annotation/ParametersAreNonnullByDefault.class
 com/google/android/gms/common/internal/safeparcel/SafeParcelable$Field.class
@@ -1268,6 +1269,7 @@ com/sbugert/rnadmob/RNAdMobInterstitialAdModule.class
 android/support/v4/widget/CursorAdapter.class
 com/facebook/react/modules/network/NetworkingModule.class
 com/facebook/react/devsupport/interfaces/DevSupportManager.class
+com/zmxv/RNSound/RNSoundModule.class
 com/google/android/gms/internal/ads/zzaft.class
 com/facebook/imagepipeline/producers/BaseProducerContext.class
 com/google/android/gms/internal/ads/zzapi.class

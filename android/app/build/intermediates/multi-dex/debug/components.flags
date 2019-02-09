@@ -57,6 +57,7 @@
 -injars /Users/marcos/ghostrepellant/node_modules/react-native-i18n/android/build/intermediates/intermediate-jars/debug/classes.jar(**.class)
 -injars /Users/marcos/ghostrepellant/node_modules/react-native-firebase/android/build/intermediates/intermediate-jars/debug/classes.jar(**.class)
 -injars /Users/marcos/ghostrepellant/node_modules/react-native-admob/android/build/intermediates/intermediate-jars/debug/classes.jar(**.class)
+-injars /Users/marcos/ghostrepellant/node_modules/react-native-sound/android/build/intermediates/intermediate-jars/debug/classes.jar(**.class)
 -injars /Users/marcos/ghostrepellant/android/app/build/intermediates/classes/debug(**.class)
 -outjars /Users/marcos/ghostrepellant/android/app/build/intermediates/multi-dex/debug/componentClasses.jar
 

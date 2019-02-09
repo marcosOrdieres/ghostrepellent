@@ -44,8 +44,7 @@ export default class SplashComponent extends Component {
           <View style={{position: 'absolute', paddingTop: '110%'}}>
             <AdMobBanner
               adSize='fullBanner'
-              adUnitID='ca-app-pub-3940256099942544/6300978111'
-                // adUnitID="ca-app-pub-7498255284251761~6149695323" my one
+              adUnitID='ca-app-pub-7498255284251761~6149695323'
               testDevices={[AdMobBanner.simulatorId]}
               onAdFailedToLoad={error => console.error(error)} />
           </View>

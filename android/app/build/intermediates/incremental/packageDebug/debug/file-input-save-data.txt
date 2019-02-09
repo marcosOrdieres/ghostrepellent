@@ -1,5 +1,5 @@
 #Internal package file, do not edit.
-#Sat Feb 09 15:06:13 CET 2019
+#Sat Feb 09 18:28:23 CET 2019
 5.base=/Users/marcos/ghostrepellant/android/app/build/intermediates/transforms/dexMerger/debug/0
 22.path=lib/x86/libgnustl_shared.so
 32.set=NATIVE_RESOURCE
