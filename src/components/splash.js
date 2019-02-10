@@ -51,9 +51,9 @@ export default class SplashComponent extends Component {
           : null}
         </TouchableOpacity>
         {this.props.advertisment ?
-          <View style={{flex: 1}}>
+          <View style={{flex: 2}}>
             <Text
-              style={{color: 'blue', textAlign: 'center', justifyContent: 'center'}}
+              style={{textDecorationLine: 'underline', color: '#80aaff', textAlign: 'center', justifyContent: 'center', paddingBottom: 20}}
               onPress={() => Linking.openURL('https://mamarene.blogspot.com/2019/02/privacy-policy-ghost-repellent.html')}>Privacy Policy</Text>
             <AdMobBanner
               adSize='smartBannerPortrait'

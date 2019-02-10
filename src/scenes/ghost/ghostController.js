@@ -108,7 +108,7 @@ class GhostController extends BaseScene {
       });
       this.chargeAd();
       this.getIntersticialSecondAd();
-    }, 5000);
+    }, 8000);
   }
 
   getIntersticialSecondAd () {

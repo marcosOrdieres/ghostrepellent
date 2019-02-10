@@ -22,7 +22,7 @@ class SplashController extends BaseScene {
   goGhostScreen () {
     setTimeout(() => {
       this.navigateTo('Ghost');
-    }, 2000);
+    }, 1500);
   }
 
   async initializeFirebaseApp () {
