@@ -40,7 +40,7 @@ class SplashController extends BaseScene {
 
   chargeAd () {
     // Display an interstitial
-    AdMobInterstitial.setAdUnitID('ca-app-pub-7498255284251761~6149695323');
+    AdMobInterstitial.setAdUnitID('ca-app-pub-7498255284251761/2559549073');
     AdMobInterstitial.setTestDevices(['6D1D35847F87DD467EE0D0AD2FE07E63']); // my phone Device
     AdMobInterstitial.requestAd();
   }

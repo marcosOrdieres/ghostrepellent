@@ -9,9 +9,10 @@ const {width, height} = Dimensions.get('window');
 export default (controller) => (
   <Splash
     advertisment
+    text={controller.state.ghostHunted ? 'Ghosts are Repelled!' : 'Click to Repel the Ghosts'}
     onPressItem={() => { controller.toggleGhostButton(); }}
     widthImage={width - 20}
-    heightImage={height}
+    heightImage={height - 150}
     backColor={controller.state.ghostHunted ? 'black' : 'black'}
     logo={controller.state.ghostHunted ? logoHunted : logoScare} />
 );
